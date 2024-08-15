@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Mia Demirdal and I am a second-year Computer Science major at Suffolk University!<br>I am currently working on my studies and my own personal projects that I will upload soon!<br>
+Hello! My name is Mia Demirdal and I am a Computer Science student at Wentworth IT!<br>I am currently working on my studies and my own personal projects that I will upload!<br>
 
 
 ## 🌐 Socials:
